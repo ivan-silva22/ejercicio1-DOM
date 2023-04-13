@@ -1,0 +1,14 @@
+body{
+    background-color: #000428;
+}
+header h1{
+    color: #fff;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 600;
+    font-size: 3em;
+}
+
+section button{
+    margin-top: 100px;
+}
+
